@@ -1,0 +1,20 @@
+{
+  "name": "higuymb/level_ideas",
+  "description": "In case you are in a need",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "HiGuy",
+      "email": "higuymb@gmail.com"
+    }
+  ],
+  "require": {
+    "twig/twig": "2.x-dev"
+  },
+  "autoload": {
+    "psr-0": {
+      "LevelIdeas": "src"
+    }
+  }
+}

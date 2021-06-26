@@ -1,0 +1,29 @@
+html, body, #container {
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#idea-container {
+    text-align: center;
+    margin: 2em 0;
+}
+
+#plus {
+    font-size: 36pt;
+}
+
+.idea {
+    font-size: 48pt;
+}

@@ -1,0 +1,76 @@
+Super jump
+Super speed
+Shock absorber
+Super bounce
+Gyrocopter
+Loop exits
+Free falling
+Gems
+Gem values in hunt
+Gravity mods
+Time travels
+Time penalties
+Super stop
+Ultra blast
+Mega marble
+Super glue
+Super oil
+Metal marble
+Paper marble
+Mini marble
+Doubler
+Moving platforms
+Rotating platforms
+Elevators
+Moving platform knockers
+Moving blockers
+Sphere gravity
+Tube gravity
+Trapdoors
+Mines
+Nukes
+Sky mines
+Cannons
+Igloo cannons
+Fans
+Small fans
+Suct fans
+Round bumpers
+Triangle bumpers
+Ring bumpers
+Mud
+Grass
+Space
+Tarmac
+Ice
+Carpet/rug
+Water
+Sand
+Bouncy floor
+Escher ramps
+Random force
+Oil slick
+Ice slick
+Rainbow slick
+Anvil
+Teleport powerup
+Transporter powerup
+Wall hits
+Edge hits
+Phils wall trick
+Phils 3 trim wall trick
+Going so fast you phase through walls
+Colmesh
+Inbounds triggers
+Outofbounds triggers
+Help triggers
+Physmod triggers
+Gravity strengths
+Sign hits
+Slope hits
+Bouncy trim
+Tightropes
+Checkpoints
+Pitfalls
+Tornadoes
+Magnets
